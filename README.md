@@ -2,6 +2,8 @@
 
 A Raycast extension for managing your FocusMate focus sessions. Schedule, join, and manage your focus sessions directly from Raycast.
 
+*Disclaimer: Vibe-coded with [Warp.dev](https://app.warp.dev/referral/2RXNPM)*)
+
 ## Features
 
 - **View Sessions**: See all your upcoming, active, and past focus sessions
